@@ -1,4 +1,4 @@
-# 👾 QRcode1337 — Holographic Manifold Repair
+# 👾 PROF PATRICK G  — Holographic Manifold Repair (study*)
 
 > Redefining how we understand **time**, **gravity**, and **intelligence** with a mix of  
 > quantum thinking, recursive systems, and slightly cursed code.
@@ -7,7 +7,7 @@
 
 ## 🧬 Who I Am
 
-- Alias: **QRcode1337** / **GhostSec**
+- Alias: **QRcode1337** / **Patrick**
 - Stack: **TypeScript · Python · JS/TS backend · AI/LLM tooling · Three.js · multi-agent systems**
 - Interests:  
   - Multi-agent AI in liminal / simulated spaces  
