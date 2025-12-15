@@ -1,4 +1,4 @@
-# 👾 PROF PATRICK G  — Holographic Manifold Repair (study*)
+# 👾 PROF PATRICK   — Holographic Manifold Repair (study*)
 
 > Redefining how we understand **time**, **gravity**, and **intelligence** with a mix of  
 > quantum thinking, recursive systems, and slightly cursed code.
