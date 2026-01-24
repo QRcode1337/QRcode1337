@@ -1,99 +1,58 @@
-# 👾  PATRICK 📖    — Holographic Manifold Repair (study*)
+# Patrick Galloway (QRcode1337)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000?logo=three.js&logoColor=white)
+**Founder @ EPSILON, LLC** · AI Automation · Agent Systems · 3D Interfaces
 
-> Redefining how we understand **time**, **gravity**, and **intelligence** with a mix of  
-> quantum thinking, recursive systems, and slightly cursed code.
-
----
-
-## 🧬 Who I Am
-
-- Alias: **QRcode1337** / **Patrick**
-- Stack: **TypeScript · Python · JS/TS backend · AI/LLM tooling · Three.js · multi-agent systems**
-- Interests:  
-  - Multi-agent AI in liminal / simulated spaces  
-  - Neuromorphic & quantum-inspired architectures  
-  - Narrative systems that blur the line between game, tool, and ritual  
-  - Practical AI automation for real-world businesses (not just labs)  [oai_citation:0‡epsilon-pitch-deck.md](sediment://file_00000000914071fdb7fd35f26920818a)  
-
-My world is split between **hard engineering**, **weird science**, and **applied AI** that actually pays someone’s bills.
+I build practical AI systems that ship: automation for small businesses, multi-agent sandboxes, and spatial/visual interfaces (Three.js). I’m interested in the boundary between rigorous engineering and “weird” ideas that still produce measurable outcomes.
 
 ---
 
-## 🚧 What I’m Building Right Now
+## What I do
+- **AI automation for SMBs**: lead capture, scheduling, follow-ups, review flows, lightweight web rebuilds  
+- **Agent systems**: orchestration, evaluation, behavior monitoring, tool safety patterns  
+- **Creative engineering**: 3D/interactive interfaces, simulation-first UX, narrative-driven systems  
 
-### 🛰 Epsilon — AI Automation for Small Businesses
-
-Helping “offline” businesses stop leaking money via:
-
-- Missed-call → instant SMS + lead capture
-- AI-driven appointment scheduling & follow-ups  
-- Review generation and reactivation campaigns  
-- Free/low-friction website rebuilds to fix broken, expired, or non-existent sites  [oai_citation:1‡epsilon-email-sequences.md](sediment://file_000000003e5871fd938e53eb0f311cce)  
-
-Think: **AI receptionist + growth engine** for auto shops, salons, barbers, and clinics.  [oai_citation:2‡epsilon-mockup-concepts.md](sediment://file_00000000553071fd84999a24ee00e4fd)  
+**Core stack:** TypeScript · Python · Node.js · LLM tooling · Three.js · automation pipelines
 
 ---
 
-## 🧪 Selected Repos & Concepts
-
-> Some of these are experiments, some are frameworks, all are part of the same long game.
-
-- **`3dchess`** – 3D space chess in TypeScript  
-  *Exploring higher-dimensional state spaces, but with pawns and queens.*
-
-- **`hive-mind-backrooms`**  
-  Multi-agent AI conversations in liminal “backrooms” environments.  
-  Swarm orchestration, deliberation modes, behavior monitoring.
-
-- **`liminal_backrooms` (fork)**  
-  GUI for dynamic conversations between multiple AI models — a playground for emergent behavior and prompt-as-physics ideas.
-
-- **`AI-Scientist` (fork)**  
-  Working toward more automated, open-ended scientific discovery pipelines.
-
-- **Epsilon tooling (private / in progress)**  
-  - Scripts & flows for cold outreach, website teardown → mockup → deploy  
-  - AI “Ops” patterns for SMBs (audit → implement → iterate)  [oai_citation:3‡epsilon-pitch-deck.md](sediment://file_00000000914071fdb7fd35f26920818a)  
+## Current focus
+- Building **CASCADE**: an “AI receptionist + growth engine” for offline businesses (shops, salons, clinics)
+- Developing **multi-agent environments** for emergent behavior experiments
+- Prototyping **spatial UIs** that make complex systems visible and controllable
 
 ---
 
-## 🧠 How I Think
-
-- **Systems over hacks** – I care more about *repeatable pipelines* than clever one-offs.
-- **Weird, but grounded** – Esoteric frameworks are useful if they help model reality or ship better tools.
-- **Human in the loop** – AI as an amplifier, not a replacement. Especially in high-trust work.
-
-Philosophically, I’m interested in:
-
-- Recursive / holographic models of mind and reality  
-- Intelligence as a byproduct of constraint navigation  
-- Narrative and belief as “soft protocols” that shape hard systems  
+### Pinned
+- `3dchess` — 3D constraints + interaction experiments  
+- `hive-mind-backrooms` — multi-agent orchestration sandbox  
+- `liminal_backrooms` — multi-model GUI playground  
+- `AI-Scientist` (fork)** — automation-assisted discovery pipelines  
+  Interested in where these workflows become reliably useful.
 
 ---
 
-## 📍 Current Focus
-
-- Turning Epsilon into a **small, lethal AI ops engine** for local businesses
-- Building better **multi-agent sandboxes** for emergent behavior
-- Experimenting with **visual + spatial interfaces** (3D, liminal UIs, backrooms-style worlds)
-- Mapping research from neuromorphic / quantum spaces into practical prototypes
+## How I work
+- **Systems > hacks**: repeatable pipelines beat clever one-offs  
+- **Grounded weirdness**: speculative ideas are welcome if they improve models or outcomes  
+- **Human-in-the-loop**: AI should amplify judgment, not replace it  
 
 ---
 
-## 🤝 Collaborations & Contact
-
+## Collaboration
 I’m open to:
-
-- Collaborating on **multi-agent frameworks**, **AI tools**, or **strange interfaces**
-- Partnering on **AI automation** for small/medium businesses
-- Contributing to projects that sit at the intersection of **science, art, and code**
-
-Want to talk?
-
-- GitHub: you’re already here
-- LinkedIn (professional persona): `linkedin.com/in/patrickgalloway`
-- Everything else: check my current links / website in my profile
+- Multi-agent frameworks and evaluation harnesses
+- AI automation products for SMBs
+- Strange interfaces at the intersection of science, art, and tooling
 
 ---
 
-> If it bends reality a little *and* helps real humans, I’m probably interested.
+## Contact
+- LinkedIn: `linkedin.com/in/patrickgalloway`
+- GitHub: you’re already here
+
+> If it bends reality a little *and* helps real humans, I’m interested.
+>
+> 
