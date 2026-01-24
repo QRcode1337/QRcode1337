@@ -1,8 +1,9 @@
-# Patrick Galloway (QRcode1337)
+# volta  (QRcode1337)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000?logo=three.js&logoColor=white)
+
 **Founder @ EPSILON, LLC** · AI Automation · Agent Systems · 3D Interfaces
 
 I build practical AI systems that ship: automation for small businesses, multi-agent sandboxes, and spatial/visual interfaces (Three.js). I’m interested in the boundary between rigorous engineering and “weird” ideas that still produce measurable outcomes.
