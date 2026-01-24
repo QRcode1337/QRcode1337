@@ -1,48 +1,63 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=QRcode1337&fontSize=64&fontAlign=50&fontAlignY=40&desc=Security-minded%20automation%20%2B%20modern%20growth%20systems&descAlign=50&descAlignY=62&animation=twinkling&stroke=FFFFFF&strokeWidth=1&color=0:0b1020,50:7c3aed,100:00d4ff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=QRcode1337&fontSize=68&fontAlign=50&fontAlignY=40&desc=Security-minded%20automation%20%2B%20modern%20growth%20systems&descAlign=50&descAlignY=64&animation=twinkling&stroke=F5F3EE&strokeWidth=1&color=0:000000,55:111827,100:FF3B30" />
 </p>
 
+```text
+┌──────────────────────────────────────────────────────────────────────────┐
+│  ░▒▓ QRcode1337 ▓▒░   EPSILON, LLC                                        │
+│  Security-minded automation + modern growth systems (often ~15% ROI)      │
+│  Agent systems • 3D interfaces • LLM tooling • clean conversion UX        │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&lines=Founder+%40+EPSILON%2C+LLC;AI+Automation+for+SMBs+%7C+Agent+Systems+%7C+3D+Interfaces;Security-minded+automation+%2B+clean+growth+systems+(often+~15%25+ROI);Turning+stale+web+presences+into+clean%2C+fast%2C+believable+digital+gravity+wells" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=900&color=F5F3EE&center=true&vCenter=true&width=820&lines=EPSILON%20%7C%20AI%20Automation%20%2B%20Agent%20Systems;Security-first%20pipelines%20%7C%20measurable%20lift%20(~15%25%20ROI);Liminal%20UIs%20%7C%203D%20interfaces%20%7C%20tools%20that%20ship" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/QRcode1337?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repos-000000?style=for-the-badge&logo=github&logoColor=F5F3EE" />
   </a>
   <a href="https://github.com/QRcode1337?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-111827?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stars-000000?style=for-the-badge&logo=githubsponsors&logoColor=FF3B30" />
   </a>
   <a href="https://github.com/QRcode1337?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Followers-000000?style=for-the-badge&logo=github&logoColor=F5F3EE" />
   </a>
 </p>
+
 
 ---
 
 ## 👾 What I build
-I build practical AI systems that ship: **automation for small businesses**, **multi-agent sandboxes**, and **spatial/visual interfaces** (Three.js).
+
+I build practical AI systems that ship: automation for small businesses, multi-agent sandboxes, and spatial/visual interfaces (Three.js).
 My lane is the boundary between rigorous engineering and “weird” ideas that still produce measurable outcomes.
 
-### 🧩 Core themes
-- **Security-minded automation**: abuse-aware design, least privilege, auditability
-- **Modern growth systems**: conversion-first UX + follow-ups + review loops (often ~15% ROI on early optimizations)
-- **Agent systems**: orchestration, evaluation, tool safety patterns, behavior monitoring
-- **3D interfaces**: simulation-first UX, spatial controls, narrative systems as UI
+## 🧩 Core themes 
+	•	Security-minded automation: abuse-aware design, least privilege, auditability
+	•	Modern growth systems: conversion-first UX + follow-ups + review loops (often ~15% ROI on early optimizations)
+	•	Agent systems: orchestration, evaluation, tool safety patterns, behavior monitoring
+	•	3D interfaces: simulation-first UX, spatial controls, narrative systems as UI
 
----
+⸻
 
 ## 🛰 Building now
-### **CASCADE** (EPSILON)
-**AI receptionist + growth engine** for “offline” businesses:
-- missed-call → instant SMS + lead capture
-- booking + follow-ups
-- review generation + reactivation
-- fast website rebuilds when the current one is broken, expired, or nonexistent
 
----
+
+### CASCADE (engine)
+
+AI receptionist + growth engine for “offline” businesses:
+	•	missed-call → instant SMS + lead capture
+	•	booking + follow-ups
+	•	review generation + reactivation
+	•	fast website rebuilds when the current one is broken, expired, or nonexistent
+
+⸻
 
 ## 🧪 Selected projects
+
 <p align="center">
   <a href="https://github.com/QRcode1337/3dchess">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=QRcode1337&repo=3dchess&theme=tokyonight&hide_border=true" />
@@ -62,14 +77,16 @@ My lane is the boundary between rigorous engineering and “weird” ideas that 
 
 ---
 
-## 🧰 Stack (clean + readable)
+## 🧰 Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-111827?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Tooling-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF3B30" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=F5F3EE" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=F5F3EE" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=F5F3EE" />
+  <img src="https://img.shields.io/badge/LLM%20Tooling-000000?style=for-the-badge&logo=openai&logoColor=FF3B30" />
 </p>
+
 
 ---
 
@@ -103,6 +120,7 @@ I’m open to:
 
 ## 🔒 Contact (privacy-respecting)
 - GitHub: you’re already here  
-- Professional contact: add an email alias or a single landing page link (recommended)
+- Professional contact: operator@epsilonsec.ai
+- Anonymous email: psugi@proton.me
 
 > If it bends reality a little *and* helps real humans, I’m interested.
