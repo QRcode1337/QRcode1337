@@ -54,7 +54,7 @@ AI receptionist + growth engine for “offline” businesses:
 	•	review generation + reactivation
 	•	fast website rebuilds when the current one is broken, expired, or nonexistent
 
-### PRISM VECTPR (DoW CONTRACTORS)
+### PRISM VECTOR (DoW CONTRACTORS)
 
 Proposal rescue for companies that lost on presentation, not substance.
 
