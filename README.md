@@ -54,6 +54,17 @@ AI receptionist + growth engine for “offline” businesses:
 	•	review generation + reactivation
 	•	fast website rebuilds when the current one is broken, expired, or nonexistent
 
+### PRISM VECTPR (DoW CONTRACTORS)
+
+Proposal rescue for companies that lost on presentation, not substance.
+
+  Transform dense technical documentation into:
+  	•	Interactive capability briefs
+	•	Animated process flows
+	•	Spatial org charts / team matrices
+	•	"Show don't tell" infographics that evaluators actually read
+
+
 ⸻
 
 ## 🧪 Selected projects
